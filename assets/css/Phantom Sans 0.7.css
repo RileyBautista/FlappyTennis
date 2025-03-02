@@ -1,0 +1,26 @@
+@font-face {
+	font-family: 'Phantom Sans 0.7';
+	src: url(../../assets/fonts/Phantom%20Sans%200.7-ef5d87bd1397c266fea26dbc341133d0.woff2) format('woff2'),
+	url(../../assets/fonts/Phantom%20Sans%200.7-484ce4ee4d952e977efb10000ae20a8e.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Phantom Sans 0.7';
+	src: url(../../assets/fonts/Phantom%20Sans%200.7-d81cc9383b9c994ab9c85f541a6f880e.woff2) format('woff2'),
+	url(../../assets/fonts/Phantom%20Sans%200.7-f4ddb2485a809d6cb07a38dae66ac153.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Phantom Sans 0.7';
+	src: url(../../assets/fonts/Phantom%20Sans%200.7-85ea91f43e8b4ee4d28acd9602e4d8ba.woff2) format('woff2'),
+	url(../../assets/fonts/Phantom%20Sans%200.7-e98e7229c8848f2355676d82d047b05d.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
