@@ -10,4 +10,4 @@ The <b>most</b> annoying way to play Flappy Bird, chuck a physical tennis ball ð
 
 [Game Source Here!](https://github.com/AndrewCromar/Scrapyard-Project/)
 
-Created by [Andrew](https://github.com/AndrewCromar), [Brody](https://github.com/m3kko), and [Riley!](https://github.com/RileyBautista)
+Created by [Andrew](https://github.com/AndrewCromar), [Brody](https://x.com/brodylame), and [Riley!](https://github.com/RileyBautista)
