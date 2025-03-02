@@ -52,16 +52,16 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/v1.2web-beta.loader.js";
+      var loaderUrl = buildUrl + "/v2.0web-beta.loader.js";
       var config = {
         arguments: [],
-        dataUrl: buildUrl + "/v1.2web-beta.data",
-        frameworkUrl: buildUrl + "/v1.2web-beta.framework.js",
-        codeUrl: buildUrl + "/v1.2web-beta.wasm",
+        dataUrl: buildUrl + "/v2.0web-beta.data",
+        frameworkUrl: buildUrl + "/v2.0web-beta.framework.js",
+        codeUrl: buildUrl + "/v2.0web-beta.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "ONYX Development",
         productName: "Scrapyard Project",
-        productVersion: "v1.2web-beta",
+        productVersion: "v2.0web-beta",
         showBanner: unityShowBanner,
       };
 
@@ -102,7 +102,7 @@
         canvas.style.height = "600px";
       }
 
-      canvas.style.background = "url('" + buildUrl + "/v1.2web-beta.jpg') center / cover";
+      canvas.style.background = "url('" + buildUrl + "/v2.0web-beta.jpg') center / cover";
       document.querySelector("#unity-loading-bar").style.display = "block";
 
       var script = document.createElement("script");
